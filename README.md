@@ -24,5 +24,5 @@
 
 ```
 # 实验结果
-![实验结果截图]()
+![实验结果截图](https://github.com/dongtianshuo/dongtianshuo4/blob/main/Snipaste_2020-11-03_16-47-42.png)
 # 实验感想
